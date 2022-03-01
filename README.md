@@ -37,11 +37,11 @@ class Social:
     email: str = 'jumbamark@yahoo.com' 
 ```
 
-```html:
+```html
 <p align="center">            
-<a href="https://github.com/jumbamark/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumbamark&theme=highcontrast" />
-</a>
+  <a href="https://github.com/jumbamark/github-readme-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumbamark&theme=highcontrast" />
+  </a>
 </p>
 ```
 
