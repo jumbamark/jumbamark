@@ -35,5 +35,13 @@ class Social:
     codewars: str = 'https://www.codewars.com/users/jumbamark'
     twitter: str = 'https://twitter.com/_jumbamark_'
     email: str = 'jumbamark@yahoo.com' 
-  
- ````
+ ```
+
+```html:
+<p align="center">            
+<a href="https://github.com/jumbamark/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumbamark&theme=highcontrast" />
+</a>
+</p>
+
+```
