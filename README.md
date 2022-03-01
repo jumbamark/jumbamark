@@ -35,6 +35,4 @@ class Social:
     codewars: str = 'https://www.codewars.com/users/jumbamark'
     twitter: str = 'https://twitter.com/_jumbamark_'
     email: str = 'jumbamark@yahoo.com' 
-    # linkedin: str = 'https://www.linkedin.com/in/jumbamark'
-    # portfolio: str = 'https://jumbamark.github.io'
  ````
