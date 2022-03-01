@@ -8,6 +8,12 @@
   <img src="https://profile-counter.glitch.me/jumbamark/count.svg" />
 </p>
 
+<p align="center">            
+<a href="https://github.com/jumbamark/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumbamark&theme=highcontrast" />
+</a>
+</p>
+
 ```python
 from dataclasses import dataclass
 from typing import Sequence
@@ -37,12 +43,5 @@ class Social:
     email: str = 'jumbamark@yahoo.com' 
 ```
 
-```html
-<p align="center">            
-  <a href="https://github.com/jumbamark/github-readme-stats">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumbamark&theme=highcontrast" />
-  </a>
-</p>
-```
 
 
