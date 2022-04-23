@@ -8,10 +8,6 @@
   <img src="https://profile-counter.glitch.me/jumbamark/count.svg" />
 </p>
 
-<p align="center">  
-<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Mark's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jumbamark&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
-</p>
-
 <p align="center">            
 <a href="https://github.com/jumbamark/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jumbamark&theme=highcontrast" />
