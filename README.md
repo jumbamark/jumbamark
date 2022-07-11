@@ -5,7 +5,7 @@
 
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines="Some+people+when+confronted+with+a+problem,+think+'I know.+I'll use regular expressions.+'Now they have two problems."+~ Jamie Zawinski)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Some+people+when+confronted+with+a+problem+,+think+'I+know.+I'll+use+regular +expressions.+'Now+they+have+two+problems)](https://git.io/typing-svg)
     
   </div>
 
