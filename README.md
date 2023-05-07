@@ -12,9 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Trust+but+verify+with+unit+testing+.)](https://git.io/typing-svg)
 
-# Stats 📊:
-![](https://github-readme-stats.vercel.app/api?username=jumbamark&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-
 ### About Me
 ```python
 from dataclasses import dataclass
