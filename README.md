@@ -28,7 +28,7 @@ class Skills:
     operation_systems: Sequence[str] = 'Linux'
     test_frameworks: Sequence[str] = 'pytest, unittest' 
     web_frameworks: Sequence[str] = 'django','django rest-framework', 'react.js'
-    code_quality: Sequence[str] = 'betty', 'pydocstyle'
+    code_quality: Sequence[str] = 'betty', 'pycodestyle'
     version_control: Sequence[str] = 'git'
     ongoing: Sequence[str] = 'Flutter'
 
