@@ -7,9 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumbamark/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17032431/jumba-mark) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_jumbamark_)
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=green) ![ReactJs](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/django%20rest-ff1709?style=plastic&logo=django&logoColor=white)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=Trust+but+verify+with+unit+testing+.)](https://git.io/typing-svg)
 
 ### About Me
